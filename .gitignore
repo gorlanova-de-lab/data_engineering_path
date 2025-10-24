@@ -1,0 +1,20 @@
+# Data folders and temporary files
+data/
+*.csv
+*.parquet
+*.zip
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Docker
+*.pid
+*.sock
+
